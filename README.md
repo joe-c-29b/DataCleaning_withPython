@@ -15,3 +15,5 @@ UniqueValues - functions for getting unique values or value counts from a column
 PivotTable - functions for creating different pivot tables
 
 NullValues - functions for filtering for and manipulating null values
+
+SnakeCase - template for python function to convert all columns to snake case
