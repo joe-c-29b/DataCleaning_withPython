@@ -1,0 +1,9 @@
+unique values
+
+data.col.unique()
+data['col'].unique()
+
+value counts
+
+data.col.value_counts()
+data['col']value_counts()
