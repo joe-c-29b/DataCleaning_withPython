@@ -1,0 +1,9 @@
+pivot table creation
+
+data.pivot_table(index = ['col1','col2'])  #just for grouping by col1 and col2
+data.pivot_table('col3', index = ['col1','col2']) #col3 is the one being aggregated in this one
+
+aggfunc =   #the aggregation function you want the pivot table to express, the default is mean
+margins = #will compute groupstats for all data within a single tier, default is False
+
+pd.crosstab()  #a pivot table, but only computes group frequencies, not other aggregate functions
