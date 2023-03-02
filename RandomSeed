@@ -1,0 +1,4 @@
+Creating random values
+
+p.random.seed(##)
+values = np.random.uniform(low = 2.5, high = 4.5, size = (len(data))).round(2)
