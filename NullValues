@@ -1,0 +1,16 @@
+#missing data - data that exists, but as not been stored
+#non-existent data - data that has never been created
+
+.isnull() #produces a T/F response for each value
+.isnull().sum() #counts all the "trues" for isnull()
+.dropna() #drop rows containing missing values
+  subset=[1] #drop rows with missing values in column 1
+  axis=1 #drop columns with missing values
+  how='all' 3drop rows with all missing values
+  thresh=2 drop rows that don't have at least 2 values
+np.nan #place a missing value 
+.fillna() #fill missing values with a given constant
+  method='ffill' #takes the last available value and uses it to fill the below missing value
+  limit=2 #when used in conjunction with method ffill, it sets a limit of values to fill and then stops regradless of if there is another missing value below
+  df.mean() #fill missing values with the average of the column
+  {1:1.5,2:-1.5} #replace missing values using a dictionary, {column:value}
