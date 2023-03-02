@@ -13,3 +13,5 @@ RandomSeed - proper use of the random seed function in a function that will be a
 UniqueValues - functions for getting unique values or value counts from a column
 
 PivotTable - functions for creating different pivot tables
+
+NullValues - functions for filtering for and manipulating null values
