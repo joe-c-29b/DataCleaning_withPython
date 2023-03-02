@@ -1,0 +1,11 @@
+Output all column names in your df:
+for i in data.columns:
+    print(i)
+
+
+view other basic data info:
+data.shape
+data.head()
+data.info()
+data.describe()
+len(data)
