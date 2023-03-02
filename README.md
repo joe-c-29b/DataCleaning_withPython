@@ -11,3 +11,5 @@ DF_colsNinfo - a basic list of functions for getting your standard description f
 RandomSeed - proper use of the random seed function in a function that will be accepted by VSCode
 
 UniqueValues - functions for getting unique values or value counts from a column
+
+PivotTable - functions for creating different pivot tables
