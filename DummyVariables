@@ -1,0 +1,5 @@
+#dummy variables are converted versions of categorical variables that makes them numerical.
+pd.get_dummies(df) 
+  (prefix='')         #will add a string before the column name of the dummy variables
+  (drop_first=True)     #gets rid of the first column, reduces correlation and dimensionality of the data
+  (dummy_na=True)     #adds a column for missing values
