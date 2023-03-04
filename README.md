@@ -25,3 +25,5 @@ ClassificationReorder - python function for converting ACP classification types 
 Duplicates - the methods and parameters for dealing with duplicate rows/values
 
 DummyVariables - the method and parameters for properly creating dummy variables
+
+concatVmerge - the methods for joining together dfs
