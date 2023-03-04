@@ -18,4 +18,6 @@ NullValues - functions for filtering for and manipulating null values
 
 SnakeCase - template for python function to convert all columns to snake case
 
-valueCounts - templae for python function to output the value counts for all columns in a dataframe
+valueCounts - template for python function to output the value counts for all columns in a dataframe
+
+ClassificationReorder - python function for converting ACP classification types into acronyms and then ordering them alphabetically
