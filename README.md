@@ -23,3 +23,5 @@ valueCounts - template for python function to output the value counts for all co
 ClassificationReorder - python function for converting ACP classification types into acronyms and then ordering them alphabetically
 
 Duplicates - the methods and parameters for dealing with duplicate rows/values
+
+DummyVariables - the method and parameters for properly creating dummy variables
