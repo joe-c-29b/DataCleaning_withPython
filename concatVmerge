@@ -1,0 +1,22 @@
+pd.concat([df1,df2]!QW@)
+  (axis=0)    #stack first df on top of the second df (like a vstack)
+  (axis=1)    #stack the first df to the left of the second df (like a hstack)
+  (join='')   #the type of join operation you will be doing, similar to SQL joins. Options are: outer, inner(default), left, right
+  (ignore_index=)   #options are True or False, true then the indices of the two are ignored, false then the indices are gone get in your way
+  (names='')    #names for levels in a hierarchical index
+  (verify_integrity=)   #options are true and false, check for if there are any duplicates occurring along the new axis, this is very tedious for the program though
+  (sort=)   #options of true or false, will automatically sort the now combined columns on the non-concatenated axis, only works for outer joins
+  (keys=[])   #assigns a key name to identify the dfs w/in the new joined object
+merge()
+  (on=)   #this gets used if the dfs you are merging have a column in common that you can merge on, otherwise use the below two options
+  (left_on=)
+  (right_on=)
+  (suffixes=(,))    #suffixes that get added to the column headers based on which df they originally came from
+  (how=)    #what type of join you are doing on the columns, options are: left, right, outer, inner(default), and cross(all possible combinations
+  #ex.  pd.merge(df1,df2)   or    df1.merge(df2)
+  
+  
+#two more options for how to merge dfs
+.append()
+.join()
+  
