@@ -21,3 +21,5 @@ SnakeCase - template for python function to convert all columns to snake case
 valueCounts - template for python function to output the value counts for all columns in a dataframe
 
 ClassificationReorder - python function for converting ACP classification types into acronyms and then ordering them alphabetically
+
+Duplicates - the methods and parameters for dealing with duplicate rows/values
