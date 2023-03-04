@@ -27,3 +27,5 @@ Duplicates - the methods and parameters for dealing with duplicate rows/values
 DummyVariables - the method and parameters for properly creating dummy variables
 
 concatVmerge - the methods for joining together dfs
+
+Lambda - this does not contain a function or method, rather it is your notes on what a lambda is and what an anonymous function means
