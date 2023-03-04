@@ -1,0 +1,5 @@
+df.duplicated() #will return a boolean of whether a value has been observed before, starts at the row/tuple level, not individual values unless you specify a column
+df.drop_duplicates() #will return on non-duplicated rows
+  (keep='last') #keeps the last observation of a duplicate instead of the first
+  (['col']) #specifies a subset of the columns to search for duplicates instead of the entire df
+  
