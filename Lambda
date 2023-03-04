@@ -1,0 +1,14 @@
+An anonymous function
+
+starting with the below function to demonstrate how lambda can do the same thing
+
+def func(x):
+  return (x+5)
+
+funcName = lambda x: x+5
+
+syntax = lambda (parameter): (function you would like to output)
+
+x is the parameter that you are going to feed your function
+
+more or less you are using it to create a quick function in the moment to use super quick
