@@ -1,0 +1,74 @@
+Washington cherry blossom pink #ffb7c5
+
+
+Pacific Rhododendrum pink #C973C9
+
+Hyperlink blue #0066cc
+Hyperlink purple #7851a9
+
+Background gray #FAFAFA
+Black #000000
+
+
+Blues:
+Light blue #D6EAF8 
+Dark blue #21618C 
+
+
+Purple:
+Deep purple #6C3483
+
+sounders color scheme
+#005595 for Sounder blue
+#5D9741 for rave green
+#142530 for cascade shale
+
+seahawks color scheme
+college navy #002244
+action green #69BE28
+wolf gray #A5acaf
+
+huskies color scheme
+purple  #4B2E83
+gold #b7a57a
+metallic gold #85754d
+
+cougars color scheme
+crimson #981E32
+gray #5E6A71
+
+kraken color scheme
+#001628 for deep sea blue
+#99D9D9 for ice blue
+#355464 for boundless blue
+#68A2B9 for shadow blue
+#E9072B for red alert 
+
+storm color scheme
+yellow #FBE122
+green #2C5234
+gray #A2AAAD
+
+mariners color scheme
+navy blues #0C2C56
+northwest green #005C5C
+silver #C4CED4
+red #D50032
+
+ol reign
+blue #003692
+red #e62929
+gold #be892c
+
+
+
+
+lighter green on the buttons
+Rename legal compliance (agency/schools/businesses oh my?)
+Rename the "become an application assistant" button
+Potentially create 2 more buttons (Do I qualify?)
+Move service of process up on the compliance page
+Consider adding it/linking to it in a few other pages
+
+
+
